@@ -1,0 +1,9 @@
+# 本地构建产物（CI 和本地脚本都会从 icon_1024.b64 重新生成）
+icon_1024.png
+build/
+Payload/
+*.ipa
+*.xcarchive
+.DS_Store
+__pycache__/
+*.pyc
